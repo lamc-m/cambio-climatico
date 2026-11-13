@@ -1,0 +1,1142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20261112233829W5PQRD</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20261112233829EOXB01</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.6</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Comprendiendo el cambio climático</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Kendra Salas; Laura Mafla; Luis Rodríguez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>A través de este RED los alumnos podrán comprender el cambio climático, conceptos clave, definición, consecuencias, y tendrán acceso a actividades que orientan la adquisición del aprendizaje. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.6</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1794536910452</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScore</key>
+    <value>5</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScoreEveryActivity</key>
+    <value>false</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>5fe6f541-299b-4ae4-9f66-dda522eaf14e</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Bienvenida</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Bienvenida</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Bienvenida</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>5fe6f541-299b-4ae4-9f66-dda522eaf14e</odePageId>
+      <odeBlockId>block-mwecmro6-p5q3802j2</odeBlockId>
+      <blockName>¿Qué sabemos del cambio climático?</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>5fe6f541-299b-4ae4-9f66-dda522eaf14e</odePageId>
+          <odeBlockId>block-mwecmro6-p5q3802j2</odeBlockId>
+          <odeIdeviceId>idevice-1794536389012-2bzhc084c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1366px;"><img src="{{context_path}}/content/resources/Pequeños guardianes de la Tierra.png" width="1366" height="816" alt="Imagen elaborada con apoyo de inteligencia artificial generativa (ChatGPT, OpenAI, 2026)." title="Imagen elaborada con apoyo de inteligencia artificial generativa (ChatGPT, OpenAI, 2026)." />
+<figcaption class="figcaption"><br /></figcaption>
+</figure>
+<h2><strong>¡Hola, exploradores!</strong></h2>
+<p><br />¿Alguna vez te has preguntado por qué hace más calor que antes, por qué ocurren sequías o por qué algunas lluvias son cada vez más intensas?</p>
+<p>Nuestro planeta está experimentando cambios que afectan la vida de las personas, los animales y las plantas. A este fenómeno lo conocemos como cambio climático.</p>
+<p>En este recorrido nos convertiremos en exploradores del clima. Aprenderemos qué está pasando con nuestro planeta, cuáles son las causas y consecuencias de estos cambios y, sobre todo, qué podemos hacer desde nuestra casa, escuela y comunidad para contribuir a su cuidado.</p>
+<p><br /></p>
+<h5><strong>¿Qué aprenderemos?</strong></h5>
+<ul>
+<li>Reconocer qué es el cambio climático y por qué ocurre.</li>
+<li>Identificar sus principales causas y consecuencias.</li>
+<li>Comprender cómo afecta nuestro entorno.</li>
+<li>Proponer acciones para proteger el medioambiente.</li>
+</ul>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794536389012-2bzhc084c","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1366px;\"><img src=\"{{context_path}}/content/resources/Pequeños guardianes de la Tierra.png\" width=\"1366\" height=\"816\" alt=\"Imagen elaborada con apoyo de inteligencia artificial generativa (ChatGPT, OpenAI, 2026).\" title=\"Imagen elaborada con apoyo de inteligencia artificial generativa (ChatGPT, OpenAI, 2026).\" />\n<figcaption class=\"figcaption\"><br /></figcaption>\n</figure>\n<h2><strong>¡Hola, exploradores!</strong></h2>\n<p><br />¿Alguna vez te has preguntado por qué hace más calor que antes, por qué ocurren sequías o por qué algunas lluvias son cada vez más intensas?</p>\n<p>Nuestro planeta está experimentando cambios que afectan la vida de las personas, los animales y las plantas. A este fenómeno lo conocemos como cambio climático.</p>\n<p>En este recorrido nos convertiremos en exploradores del clima. Aprenderemos qué está pasando con nuestro planeta, cuáles son las causas y consecuencias de estos cambios y, sobre todo, qué podemos hacer desde nuestra casa, escuela y comunidad para contribuir a su cuidado.</p>\n<p><br /></p>\n<h5><strong>¿Qué aprenderemos?</strong></h5>\n<ul>\n<li>Reconocer qué es el cambio climático y por qué ocurre.</li>\n<li>Identificar sus principales causas y consecuencias.</li>\n<li>Comprender cómo afecta nuestro entorno.</li>\n<li>Proponer acciones para proteger el medioambiente.</li>\n</ul>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>5fe6f541-299b-4ae4-9f66-dda522eaf14e</odePageId>
+      <odeBlockId>block-mwed4k0g-g89ee150b</odeBlockId>
+      <blockName>Nuestra misión</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>5fe6f541-299b-4ae4-9f66-dda522eaf14e</odePageId>
+          <odeBlockId>block-mwed4k0g-g89ee150b</odeBlockId>
+          <odeIdeviceId>idevice-1794537218894-neonvkd0x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h4 style="text-align: left;"><strong>¡Tenemos un desafío!</strong></h4>
+<p><br />Cada actividad será una oportunidad para descubrir algo nuevo. Al finalizar este recorrido, tendrás herramientas para convertirte en un agente de cambio y ayudar a construir un planeta más sostenible. ¿Estás preparado para comenzar esta aventura?</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794537218894-neonvkd0x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h4 style=\"text-align: left;\"><strong>¡Tenemos un desafío!</strong></h4>\n<p><br />Cada actividad será una oportunidad para descubrir algo nuevo. Al finalizar este recorrido, tendrás herramientas para convertirte en un agente de cambio y ayudar a construir un planeta más sostenible. ¿Estás preparado para comenzar esta aventura?</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>5fe6f541-299b-4ae4-9f66-dda522eaf14e</odePageId>
+      <odeBlockId>block-mwedalbs-j623y805b</odeBlockId>
+      <blockName>Antes de comenzar...</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>5fe6f541-299b-4ae4-9f66-dda522eaf14e</odePageId>
+          <odeBlockId>block-mwedalbs-j623y805b</odeBlockId>
+          <odeIdeviceId>idevice-1794537500535-m5qs9qsuh</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1794537500535-m5qs9qsuh" data-evaluationb="false" data-evaluationid="14c51873-950f-4386-93a0-dccdedd7367a"></div>
+            <div id="frmMainContainer-idevice-1794537500535-m5qs9qsuh" class="form-IDevice" data-id="idevice-1794537500535-m5qs9qsuh">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Responde esta pregunta</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1794537500535-m5qs9qsuh">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1794537500535-m5qs9qsuh" style="display:none;">
+                      <button  id="frmStartGame-idevice-1794537500535-m5qs9qsuh" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1794537500535-m5qs9qsuh" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1794537500535-m5qs9qsuh" > </div>
+                        <div id="frmCover-idevice-1794537500535-m5qs9qsuh" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1794537500535-m5qs9qsuh" class="form-results-container inline">
+                        <div id="form-score-idevice-1794537500535-m5qs9qsuh" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1794537500535-m5qs9qsuh" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1794537500535-m5qs9qsuh" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1794537500535-m5qs9qsuh" />
+                        <input id="form-button-reset-idevice-1794537500535-m5qs9qsuh" type="button" value="Reiniciar"
+                            data-id="idevice-1794537500535-m5qs9qsuh" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1794537500535-m5qs9qsuh" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="idevice-1794537500535-m5qs9qsuh" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer d-flex align-items-center justify-content-end mx-auto p-0 w-100"></div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794537500535-m5qs9qsuh","evaluation":false,"evaluationID":"14c51873-950f-4386-93a0-dccdedd7367a","passScoreMode":"global","passScoreCustom":5,"repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgPassScore":"Puntuación mínima necesaria para aprobar esta actividad: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia","msgOk":"Correcto","msgKO":"Incorrecto","msgHide":"Ocultar"},"id":"idevice-1794537500535-m5qs9qsuh","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Responde esta pregunta</p>","questionsData":[{"id":"1794537665098-XHN6I","activityType":"selection","baseText":"<p>¿Qué crees que está provocando los cambios en el clima de nuestro planeta?</p>","feedbackRight":"¡Excelente respuesta! 😃 Es correcta. El cambio climático está relacionado tanto con actividades humanas como con algunos procesos naturales. Sin embargo, es importante comprender que el calentamiento global que estamos experimentando actualmente se debe principalmente a las actividades humanas.","feedbackWrong":"🌱 ¡Gracias por participar, explorador! Esta es una buena oportunidad para descubrir cosas nuevas. Durante nuestro recorrido aprenderemos qué está sucediendo con el clima, cuáles son sus causas y cómo podemos cuidar nuestro planeta. ¡Sigamos explorando!","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"Las actividades humanas y algunos procesos naturales"],[false,"Únicamente los cambios de estación"],[false,"La contaminación no tiene relación con el clima"],[false,"No estoy seguro/a"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwed8mfk-gd3zpzvw7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Conozcamos nuestro planeta</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Conozcamos nuestro planeta</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwed8mfk-gd3zpzvw7</odePageId>
+      <odeBlockId>block-mwee0h20-blkqvbz8u</odeBlockId>
+      <blockName>¡Descubramos qué es el cambio climático! 🌎</blockName>
+      <iconName>mi-add_a_photo</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwed8mfk-gd3zpzvw7</odePageId>
+          <odeBlockId>block-mwee0h20-blkqvbz8u</odeBlockId>
+          <odeIdeviceId>idevice-1794538708055-tgiyao5dp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Nuestro planeta está experimentando cambios en sus condiciones climáticas. Aunque el clima de la Tierra ha cambiado de manera natural a lo largo de su historia, en la actualidad las actividades humanas están acelerando estos cambios.</p>
+<p>La contaminación, la tala de árboles, la quema de combustibles y algunas actividades agrícolas e industriales contribuyen al aumento de los gases de efecto invernadero, provocando que la temperatura del planeta aumente.</p>
+<p>Pero ¿qué significa realmente el cambio climático?, ¿por qué ocurre?, ¿cómo afecta nuestra vida y la naturaleza?</p>
+<p>¡Vamos a descubrirlo!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794538708055-tgiyao5dp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Nuestro planeta está experimentando cambios en sus condiciones climáticas. Aunque el clima de la Tierra ha cambiado de manera natural a lo largo de su historia, en la actualidad las actividades humanas están acelerando estos cambios.</p>\n<p>La contaminación, la tala de árboles, la quema de combustibles y algunas actividades agrícolas e industriales contribuyen al aumento de los gases de efecto invernadero, provocando que la temperatura del planeta aumente.</p>\n<p>Pero ¿qué significa realmente el cambio climático?, ¿por qué ocurre?, ¿cómo afecta nuestra vida y la naturaleza?</p>\n<p>¡Vamos a descubrirlo!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mwed8mfk-gd3zpzvw7</odePageId>
+      <odeBlockId>block-mwedwtyn-55lpj62f4</odeBlockId>
+      <blockName>🎬 Observa con atención</blockName>
+      <iconName>nature</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwed8mfk-gd3zpzvw7</odePageId>
+          <odeBlockId>block-mwedwtyn-55lpj62f4</odeBlockId>
+          <odeIdeviceId>idevice-1794538538158-2bsp16unk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="text-align: left;">Te invitamos a visualizar el siguiente video. Presta atención a las explicaciones, los ejemplos y las situaciones que se presentan. Recuerda que cada detalle te ayudará a comprender mejor este fenómeno.</div>
+<div style="text-align: left;"><br /></div>
+<div style="text-align: left;"><iframe width="560" height="315" src="https://www.youtube.com/embed/2SdptkBQBPg" title="Video sobre el cambio climático" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" data-mce-fragment="1">
+  </iframe></div>
+<div style="text-align: left;"><br /></div>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794538538158-2bsp16unk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"text-align: left;\">Te invitamos a visualizar el siguiente video. Presta atención a las explicaciones, los ejemplos y las situaciones que se presentan. Recuerda que cada detalle te ayudará a comprender mejor este fenómeno.</div>\n<div style=\"text-align: left;\"><br /></div>\n<div style=\"text-align: left;\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2SdptkBQBPg\" title=\"Video sobre el cambio climático\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<div style=\"text-align: left;\"><br /></div>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mwed8mfk-gd3zpzvw7</odePageId>
+      <odeBlockId>block-mweeapb7-lj54pz0ag</odeBlockId>
+      <blockName>Sabías qué...</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwed8mfk-gd3zpzvw7</odePageId>
+          <odeBlockId>block-mweeapb7-lj54pz0ag</odeBlockId>
+          <odeIdeviceId>idevice-1794539185313-zsa5iiv05</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Nuestro planeta tiene diferentes climas. En algunos lugares hace mucho calor, en otros hace frío y en algunos llueve con frecuencia.</p>
+<p>Pero ¿sabes cuál es la diferencia entre clima y tiempo atmosférico?</p>
+<p><img src="{{context_path}}/content/resources/Planeta Tierra entre naturaleza y vida marina.png" width="792" height="529" alt="" /></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794539185313-zsa5iiv05","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Nuestro planeta tiene diferentes climas. En algunos lugares hace mucho calor, en otros hace frío y en algunos llueve con frecuencia.</p>\n<p>Pero ¿sabes cuál es la diferencia entre clima y tiempo atmosférico?</p>\n<p><img src=\"{{context_path}}/content/resources/Planeta Tierra entre naturaleza y vida marina.png\" width=\"792\" height=\"529\" alt=\"\" /></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mwed8mfk-gd3zpzvw7</odePageId>
+      <odeBlockId>block-mweeiy9d-hbaomekd6</odeBlockId>
+      <blockName>1. Tiempo atmosférico</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwed8mfk-gd3zpzvw7</odePageId>
+          <odeBlockId>block-mweeiy9d-hbaomekd6</odeBlockId>
+          <odeIdeviceId>idevice-1794539570160-efbdvdn09</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Es cómo está el ambiente en un momento determinado.</p>
+<p><br /></p>
+<p><img src="{{context_path}}/content/resources/Vocabulario del tiempo kawaii.png" width="1536" height="1024" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794539570160-efbdvdn09","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Es cómo está el ambiente en un momento determinado.</p>\n<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/Vocabulario del tiempo kawaii.png\" width=\"1536\" height=\"1024\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mwed8mfk-gd3zpzvw7</odePageId>
+      <odeBlockId>block-mweenzwa-mqqzrvwhu</odeBlockId>
+      <blockName>2. Clima</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwed8mfk-gd3zpzvw7</odePageId>
+          <odeBlockId>block-mweenzwa-mqqzrvwhu</odeBlockId>
+          <odeIdeviceId>idevice-1794539805560-mz59f4f69</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Son las condiciones habituales del tiempo atmosférico en una región durante muchos años.</p>
+<p><img src="{{context_path}}/content/resources/Tipos de clima_ tropical, desértico y polar.png" width="1536" height="1024" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794539805560-mz59f4f69","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Son las condiciones habituales del tiempo atmosférico en una región durante muchos años.</p>\n<p><img src=\"{{context_path}}/content/resources/Tipos de clima_ tropical, desértico y polar.png\" width=\"1536\" height=\"1024\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mwed8mfk-gd3zpzvw7</odePageId>
+      <odeBlockId>block-mweepz9q-dju6ovr3q</odeBlockId>
+      <blockName>3. Elementos del clima</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwed8mfk-gd3zpzvw7</odePageId>
+          <odeBlockId>block-mweepz9q-dju6ovr3q</odeBlockId>
+          <odeIdeviceId>idevice-1794539898061-y27wynves</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¿Sabías que el clima está formado por diferentes elementos que nos ayudan a conocer cómo se comporta la atmósfera?</p>
+<p>Conozcamos cuatro de ellos:</p>
+<p><img src="{{context_path}}/content/resources/Tarjetas del tiempo en español.png" width="1536" height="1024" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794539898061-y27wynves","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¿Sabías que el clima está formado por diferentes elementos que nos ayudan a conocer cómo se comporta la atmósfera?</p>\n<p>Conozcamos cuatro de ellos:</p>\n<p><img src=\"{{context_path}}/content/resources/Tarjetas del tiempo en español.png\" width=\"1536\" height=\"1024\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwed9007-y1hi5ipsh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Qué es el cambio climático?</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué es el cambio climático?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwed9007-y1hi5ipsh</odePageId>
+      <odeBlockId>block-mwees694-vmebj0o9n</odeBlockId>
+      <blockName>¡Nuestro planeta está cambiando!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwed9007-y1hi5ipsh</odePageId>
+          <odeBlockId>block-mwees694-vmebj0o9n</odeBlockId>
+          <odeIdeviceId>idevice-1794540000423-6oyho0lqt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El cambio climático es la transformación de las condiciones habituales del clima de la Tierra durante largos períodos.</p>
+<p>Actualmente, nuestro planeta está aumentando su temperatura debido, principalmente, a actividades humanas como la contaminación, la tala de árboles y la quema de combustibles.</p>
+<p><img src="{{context_path}}/content/resources/Panorama colorido de las cuatro estaciones.png" width="1639" height="923" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794540000423-6oyho0lqt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El cambio climático es la transformación de las condiciones habituales del clima de la Tierra durante largos períodos.</p>\n<p>Actualmente, nuestro planeta está aumentando su temperatura debido, principalmente, a actividades humanas como la contaminación, la tala de árboles y la quema de combustibles.</p>\n<p><img src=\"{{context_path}}/content/resources/Panorama colorido de las cuatro estaciones.png\" width=\"1639\" height=\"923\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mwed9007-y1hi5ipsh</odePageId>
+      <odeBlockId>block-mweex0ce-wepr0kf3a</odeBlockId>
+      <blockName>¿Cómo contamina el ser humano nuestro planeta?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwed9007-y1hi5ipsh</odePageId>
+          <odeBlockId>block-mweex0ce-wepr0kf3a</odeBlockId>
+          <odeIdeviceId>idevice-1794540226046-l0v44c1kr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Muchas de las actividades que realizamos diariamente pueden generar contaminación y afectar el medioambiente. El humo de los vehículos y las fábricas, la acumulación de basuras, la quema de residuos y la contaminación de los ríos son algunos ejemplos.</p>
+<p>Estas acciones deterioran los ecosistemas y contribuyen al cambio climático.</p>
+<p>Observa las siguientes imágenes e identifica algunas de las formas en que estamos contaminando nuestro planeta. ¡Recuerda que nuestras acciones pueden marcar la diferencia! 🌱</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794540226046-l0v44c1kr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Muchas de las actividades que realizamos diariamente pueden generar contaminación y afectar el medioambiente. El humo de los vehículos y las fábricas, la acumulación de basuras, la quema de residuos y la contaminación de los ríos son algunos ejemplos.</p>\n<p>Estas acciones deterioran los ecosistemas y contribuyen al cambio climático.</p>\n<p>Observa las siguientes imágenes e identifica algunas de las formas en que estamos contaminando nuestro planeta. ¡Recuerda que nuestras acciones pueden marcar la diferencia! 🌱</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mwed9007-y1hi5ipsh</odePageId>
+      <odeBlockId>block-mweeulka-v6q0z85iy</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwed9007-y1hi5ipsh</odePageId>
+          <odeBlockId>block-mweeulka-v6q0z85iy</odeBlockId>
+          <odeIdeviceId>idevice-1794540113578-a1ffak62w</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1794540113578-a1ffak62w" title="" href="{{context_path}}/content/resources/Contaminación del agua_ cuidemos nuestros ríos.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Contaminación del agua_ cuidemos nuestros ríos.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1794540113578-a1ffak62w" title="" href="{{context_path}}/content/resources/Contaminación del aire en la ciudad.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Contaminación del aire en la ciudad.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1794540113578-a1ffak62w" title="" href="{{context_path}}/content/resources/Deforestación_ bosque verde y tierra arrasada.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Deforestación_ bosque verde y tierra arrasada.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794540113578-a1ffak62w","img_0":{"img":"{{context_path}}/content/resources/Contaminación del agua_ cuidemos nuestros ríos.png","thumbnail":"{{context_path}}/content/resources/Contaminación del agua_ cuidemos nuestros ríos.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/Contaminación del aire en la ciudad.png","thumbnail":"{{context_path}}/content/resources/Contaminación del aire en la ciudad.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_2":{"img":"{{context_path}}/content/resources/Deforestación_ bosque verde y tierra arrasada.png","thumbnail":"{{context_path}}/content/resources/Deforestación_ bosque verde y tierra arrasada.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mwed9007-y1hi5ipsh</odePageId>
+      <odeBlockId>block-mweezf1n-xdyjae9ne</odeBlockId>
+      <blockName>🌎 Tipos de contaminación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwed9007-y1hi5ipsh</odePageId>
+          <odeBlockId>block-mweezf1n-xdyjae9ne</odeBlockId>
+          <odeIdeviceId>idevice-1794540338410-1o7beyjvn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La contaminación ocurre cuando las actividades humanas dañan el medioambiente. Existen diferentes tipos:</p>
+<p>🌫️ Contaminación del aire: causada por el humo de vehículos, fábricas y quemas.<br />💧 Contaminación del agua: ocurre cuando arrojamos basuras, químicos o aguas residuales a ríos y mares.<br />🗑️ Contaminación del suelo: se produce por la acumulación de residuos y sustancias tóxicas en la tierra.<br />🔊 Contaminación sonora: causada por ruidos fuertes de vehículos, máquinas y parlantes.<br />💡 Contaminación lumínica: ocurre cuando hay exceso de luz artificial durante la noche.</p>
+<h5><br /><strong>🌱 ¡Cuidar nuestro planeta es responsabilidad de todos!</strong></h5>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794540338410-1o7beyjvn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La contaminación ocurre cuando las actividades humanas dañan el medioambiente. Existen diferentes tipos:</p>\n<p>🌫️ Contaminación del aire: causada por el humo de vehículos, fábricas y quemas.<br />💧 Contaminación del agua: ocurre cuando arrojamos basuras, químicos o aguas residuales a ríos y mares.<br />🗑️ Contaminación del suelo: se produce por la acumulación de residuos y sustancias tóxicas en la tierra.<br />🔊 Contaminación sonora: causada por ruidos fuertes de vehículos, máquinas y parlantes.<br />💡 Contaminación lumínica: ocurre cuando hay exceso de luz artificial durante la noche.</p>\n<h5><br /><strong>🌱 ¡Cuidar nuestro planeta es responsabilidad de todos!</strong></h5>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mwed9007-y1hi5ipsh</odePageId>
+      <odeBlockId>block-mwef10rt-xa9qz6fzo</odeBlockId>
+      <blockName>📝 ¡Comprueba lo que aprendiste!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwed9007-y1hi5ipsh</odePageId>
+          <odeBlockId>block-mwef10rt-xa9qz6fzo</odeBlockId>
+          <odeIdeviceId>idevice-1794540413224-bf8hfe1k3</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1794540413224-bf8hfe1k3" data-evaluationb="false" data-evaluationid="14c51873-950f-4386-93a0-dccdedd7367a"></div>
+            <div id="frmMainContainer-idevice-1794540413224-bf8hfe1k3" class="form-IDevice" data-id="idevice-1794540413224-bf8hfe1k3">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>¡Vamos a intentar! Responde las preguntas</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1794540413224-bf8hfe1k3">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1794540413224-bf8hfe1k3" style="display:none;">
+                      <button  id="frmStartGame-idevice-1794540413224-bf8hfe1k3" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1794540413224-bf8hfe1k3" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1794540413224-bf8hfe1k3" > </div>
+                        <div id="frmCover-idevice-1794540413224-bf8hfe1k3" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1794540413224-bf8hfe1k3" class="form-results-container inline">
+                        <div id="form-score-idevice-1794540413224-bf8hfe1k3" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1794540413224-bf8hfe1k3" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1794540413224-bf8hfe1k3" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1794540413224-bf8hfe1k3" />
+                        <input id="form-button-reset-idevice-1794540413224-bf8hfe1k3" type="button" value="Reiniciar"
+                            data-id="idevice-1794540413224-bf8hfe1k3" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1794540413224-bf8hfe1k3" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="idevice-1794540413224-bf8hfe1k3" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer d-flex align-items-center justify-content-end mx-auto p-0 w-100"></div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794540413224-bf8hfe1k3","evaluation":false,"evaluationID":"14c51873-950f-4386-93a0-dccdedd7367a","passScoreMode":"global","passScoreCustom":5,"repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgPassScore":"Puntuación mínima necesaria para aprobar esta actividad: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia","msgOk":"Correcto","msgKO":"Incorrecto","msgHide":"Ocultar"},"id":"idevice-1794540413224-bf8hfe1k3","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>¡Vamos a intentar! Responde las preguntas</p>","questionsData":[{"id":"1794540540040-ZW70N","activityType":"selection","baseText":"<p>1. ¿Qué causa la contaminación del aire?</p>","feedbackRight":"🌱 ¡Muy bien! Cada respuesta correcta es un paso para convertirte en un explorador del clima.","feedbackWrong":"🌱 ¡Buen intento, explorador! No te preocupes. Sigue intentando y descubre cómo podemos cuidar nuestro planeta. ¡Tú puedes! 💚","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"A. El humo de los vehículos y las fábricas."],[false,"B. Las plantas y los árboles."],[false,"C. La lluvia."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794540615223-72SP0","activityType":"selection","baseText":"<p>2. ¿Qué tipo de contaminación producen los ruidos fuertes?</p>\n<p> </p>","feedbackRight":"🌱 ¡Muy bien! Cada respuesta correcta es un paso para convertirte en un explorador del clima.","feedbackWrong":"🌱 ¡Buen intento, explorador! No te preocupes. Sigue intentando y descubre cómo podemos cuidar nuestro planeta. ¡Tú puedes! 💚","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"A. Sonora."],[false,"B. Lumínica."],[false,"C. Del suelo."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794540677624-YRP53","activityType":"true-false","baseText":"<p>3. La contaminación del agua puede ser causada por arrojar basura a los ríos.</p>\n<p></p>","feedbackRight":"🌱 ¡Muy bien! Cada respuesta correcta es un paso para convertirte en un explorador del clima.","feedbackWrong":"🌱 ¡Buen intento, explorador! No te preocupes. Sigue intentando y descubre cómo podemos cuidar nuestro planeta. ¡Tú puedes! 💚","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwed9pjv-6lw8wv9rj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Cómo podemos ayudar al planeta?</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo podemos ayudar al planeta?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>¿Cómo podemos ayudar al planeta?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwed9pjv-6lw8wv9rj</odePageId>
+      <odeBlockId>block-mwef84as-ugzhtzd0c</odeBlockId>
+      <blockName>Mira cómo podemos ayudar a nuestro planeta</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwed9pjv-6lw8wv9rj</odePageId>
+          <odeBlockId>block-mwef84as-ugzhtzd0c</odeBlockId>
+          <odeIdeviceId>idevice-1794540744388-1kh0gzpio</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Pequeñas acciones, gran cambio climático.png" width="1536" height="1024" alt="" /><br /></p>
+<p>Todos podemos ayudar a cuidar nuestro planeta con pequeñas acciones que hacen una gran diferencia.</p>
+<ul>
+<li>Cuidemos los árboles: Plantemos árboles y protejamos los bosques.</li>
+<li>Ahorremos agua: Cerremos la llave cuando no la necesitemos.</li>
+<li>Reciclemos: Separemos los residuos y reutilicemos algunos materiales.</li>
+<li>Ahorremos energía: Apaguemos las luces y los aparatos que no estamos utilizando.</li>
+<li>Usemos transportes sostenibles: Caminemos, usemos bicicleta o transporte público.</li>
+<li>Consumamos productos locales: Elijamos productos de nuestra región para reducir la contaminación.</li>
+</ul>
+<p></p>
+<p>¡Recuerda! No necesitamos hacer grandes cosas para ayudar. Cada pequeña acción cuenta. Si todos cuidamos el planeta, podremos construir un futuro más limpio y saludable.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794540744388-1kh0gzpio","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Pequeñas acciones, gran cambio climático.png\" width=\"1536\" height=\"1024\" alt=\"\" /><br /></p>\n<p>Todos podemos ayudar a cuidar nuestro planeta con pequeñas acciones que hacen una gran diferencia.</p>\n<ul>\n<li>Cuidemos los árboles: Plantemos árboles y protejamos los bosques.</li>\n<li>Ahorremos agua: Cerremos la llave cuando no la necesitemos.</li>\n<li>Reciclemos: Separemos los residuos y reutilicemos algunos materiales.</li>\n<li>Ahorremos energía: Apaguemos las luces y los aparatos que no estamos utilizando.</li>\n<li>Usemos transportes sostenibles: Caminemos, usemos bicicleta o transporte público.</li>\n<li>Consumamos productos locales: Elijamos productos de nuestra región para reducir la contaminación.</li>\n</ul>\n<p></p>\n<p>¡Recuerda! No necesitamos hacer grandes cosas para ayudar. Cada pequeña acción cuenta. Si todos cuidamos el planeta, podremos construir un futuro más limpio y saludable.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mwed9pjv-6lw8wv9rj</odePageId>
+      <odeBlockId>block-mwefccy0-ngso8soc4</odeBlockId>
+      <blockName>🎮 ¡Es hora de jugar!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwed9pjv-6lw8wv9rj</odePageId>
+          <odeBlockId>block-mwefccy0-ngso8soc4</odeBlockId>
+          <odeIdeviceId>idevice-1794540942215-pfk2ixhrc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Pon a prueba tus conocimientos sobre el cambio climático con esta actividad interactiva.</strong></p>
+<p>Instrucciones:</p>
+<ul>
+<li>Lee con atención cada pregunta.</li>
+<li>Selecciona la respuesta que consideres correcta.</li>
+<li>Avanza hasta completar el juego.</li>
+<li>Si lo deseas, amplía la actividad a pantalla completa para disfrutarla mejor.</li>
+</ul>
+<p><br />¡Concéntrate, diviértete y demuestra todo lo que has aprendido! 🌎🌱</p>
+<pre><iframe width="500" height="380" style="max-width: 100%;" src="https://wordwall.net/es/embed/6cf5f49c35f94ee3b24ac133b69052d0?themeId=2&amp;templateId=5&amp;fontStackId=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></pre>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794540942215-pfk2ixhrc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Pon a prueba tus conocimientos sobre el cambio climático con esta actividad interactiva.</strong></p>\n<p>Instrucciones:</p>\n<ul>\n<li>Lee con atención cada pregunta.</li>\n<li>Selecciona la respuesta que consideres correcta.</li>\n<li>Avanza hasta completar el juego.</li>\n<li>Si lo deseas, amplía la actividad a pantalla completa para disfrutarla mejor.</li>\n</ul>\n<p><br />¡Concéntrate, diviértete y demuestra todo lo que has aprendido! 🌎🌱</p>\n<pre><iframe width=\"500\" height=\"380\" style=\"max-width: 100%;\" src=\"https://wordwall.net/es/embed/6cf5f49c35f94ee3b24ac133b69052d0?themeId=2&amp;templateId=5&amp;fontStackId=0\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></pre>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mwed9pjv-6lw8wv9rj</odePageId>
+      <odeBlockId>block-mwefgnss-a8jnhcbg5</odeBlockId>
+      <blockName>Aprendamos sobre El Fenómeno de El Niño</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwed9pjv-6lw8wv9rj</odePageId>
+          <odeBlockId>block-mwefgnss-a8jnhcbg5</odeBlockId>
+          <odeIdeviceId>idevice-1794541142908-rvh089rrq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="795" height="690" allow="fullscreen; autoplay; allow-top-navigation-by-user-activation" allowfullscreen="allowfullscreen" frameborder="0" src="https://es.educaplay.com/juego/24416943-el_fenomeno_de_el_nino_un_cambio_climatico_con_gran_impacto.html"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794541142908-rvh089rrq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"795\" height=\"690\" allow=\"fullscreen; autoplay; allow-top-navigation-by-user-activation\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\" src=\"https://es.educaplay.com/juego/24416943-el_fenomeno_de_el_nino_un_cambio_climatico_con_gran_impacto.html\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mwed9pjv-6lw8wv9rj</odePageId>
+      <odeBlockId>block-mwefj8z8-thsztz0os</odeBlockId>
+      <blockName>¡Vamos a jugar!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwed9pjv-6lw8wv9rj</odePageId>
+          <odeBlockId>block-mwefj8z8-thsztz0os</odeBlockId>
+          <odeIdeviceId>idevice-1794541263667-s8yh67gmi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="795" height="690" allow="fullscreen; autoplay; allow-top-navigation-by-user-activation" allowfullscreen="allowfullscreen" frameborder="0" src="https://es.educaplay.com/juego/20046326-cambio_climatico_calentamiento_global_y_efecto_invernadero.html"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794541263667-s8yh67gmi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"795\" height=\"690\" allow=\"fullscreen; autoplay; allow-top-navigation-by-user-activation\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\" src=\"https://es.educaplay.com/juego/20046326-cambio_climatico_calentamiento_global_y_efecto_invernadero.html\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mwed9pjv-6lw8wv9rj</odePageId>
+      <odeBlockId>block-mweflfne-6b2qtfv93</odeBlockId>
+      <blockName>🌎 ¡Misión cumplida, exploradores del clima!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwed9pjv-6lw8wv9rj</odePageId>
+          <odeBlockId>block-mweflfne-6b2qtfv93</odeBlockId>
+          <odeIdeviceId>idevice-1794541365625-n4jxjblnb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br />¡Felicitaciones por llegar hasta aquí! Ahora conoces mejor nuestro planeta, las causas y consecuencias del cambio climático y las acciones que podemos realizar para protegerlo.</p>
+<p>Recuerda que no necesitamos hacer grandes cosas para generar un cambio. Cada acción cuenta: ahorrar agua, cuidar los árboles, reciclar y respetar la naturaleza.</p>
+<p>¡El planeta necesita de nuestra ayuda y tú puedes ser parte de la solución! 🌱</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794541365625-n4jxjblnb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br />¡Felicitaciones por llegar hasta aquí! Ahora conoces mejor nuestro planeta, las causas y consecuencias del cambio climático y las acciones que podemos realizar para protegerlo.</p>\n<p>Recuerda que no necesitamos hacer grandes cosas para generar un cambio. Cada acción cuenta: ahorrar agua, cuidar los árboles, reciclar y respetar la naturaleza.</p>\n<p>¡El planeta necesita de nuestra ayuda y tú puedes ser parte de la solución! 🌱</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
